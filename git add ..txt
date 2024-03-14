@@ -1,0 +1,20 @@
+git add .
+
+git status 
+
+git commit -m "Name"
+
+git hist
+
+git show idvalue
+
+git show HEAD
+
+git diff commit id HEAD
+
+git tag - to add a tag 
+
+git tag -d = to delete a tag
+
+git tag -a v1.0 -m "release 1.0" 
+

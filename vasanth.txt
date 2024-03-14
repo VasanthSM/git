@@ -1,3 +1,7 @@
 Vasanth Subburaj in this world
 
+<<<<<<< HEAD
 Welcome to this digital world frontend Development
+=======
+Welcome to this digital world frontend Development in frenzo
+>>>>>>> dev
